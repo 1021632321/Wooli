@@ -3,3 +3,5 @@ Git is free software.
 add info on center;
 add changeInfo into this file;
 add more changeInfo to readme.
+
+change with LICENSE file;
