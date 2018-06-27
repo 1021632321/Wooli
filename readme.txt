@@ -5,3 +5,5 @@ add changeInfo into this file;
 add more changeInfo to readme.
 
 change with LICENSE file;
+
+add Info to gitHub
